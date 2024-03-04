@@ -1,0 +1,31 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+
+# Compiled bytecode
+bin/
+target/
+
+# Package files
+*.jar
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Configuration files containing sensitive information
+config.properties
+secrets.properties
+
+# Dependency lock files
+dependency.lock
+
+# System-specific files
+.DS_Store
+Thumbs.db
